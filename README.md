@@ -2,7 +2,7 @@
 This repository contains my work from the **30-Day SOC Analyst Challenge**, where I gained hands-on experience in **Security Operations Center (SOC) analysis, threat detection, and incident response** by configuring SIEM solutions, simulating cyberattacks, and investigating security incidents.  
 
 ## 🎯 **Project Overview**
-The **goal** of this project is to bridge the gap between **theoretical knowledge** and **real-world SOC skills** by working with tools like **Elasticsearch (ELK), Splunk, Mythic C2, Sysmon, and TryHackMe Labs**.  
+The **goal** of this project is to bridge the gap between **theoretical knowledge** and **real-world SOC skills** by working with tools like **Elasticsearch (ELK), Splunk, Mythic C2, Sysmon**.  
 
 ### ✅ **Topics Covered**
 The challenge is divided into four weeks, each focusing on different SOC-related activities:
